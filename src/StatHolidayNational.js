@@ -1,4 +1,4 @@
-var NationalStatHoliday = {
+module.exports = {
     StatHolidays:[],
     getStatHolidays:function(year){
         //empty StatHolidays
@@ -241,5 +241,5 @@ var NationalStatHoliday = {
 
 };
 
-
-export default NationalStatHoliday;
+// module.exports.NationalStatHoliday =  NationalStatHoliday;
+// export default NationalStatHoliday;

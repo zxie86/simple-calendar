@@ -1,4 +1,5 @@
-import NationalStatHoliday from './StatHolidayNational.js';
+// import NationalStatHoliday from './StatHolidayNational.js';
+var NationalStatHoliday = require('./StatHolidayNational.js');
 
 var date;
 var holiday ;
