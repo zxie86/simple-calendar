@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "JavaScript development environment Pluralsight course by Cory House",
   "scripts": {
-    "develop":"webpack --mode development --watch",
-    "build":"webpack --mode production"
+    "develop": "webpack --mode development --watch",
+    "build": "webpack --mode production"
   },
   "author": "Cory House",
   "license": "MIT",
@@ -33,6 +33,7 @@
     "json-schema-faker": "0.3.6",
     "json-server": "0.8.22",
     "localtunnel": "1.8.1",
+    "lodash-es": "^4.17.15",
     "mocha": "3.1.2",
     "nock": "8.1.0",
     "npm-run-all": "3.1.1",
